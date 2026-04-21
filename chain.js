@@ -4,10 +4,10 @@ const employee = {
       salary: 60000,
       family: {
           father: 'my super hero',
-        //   mother: {
-        //       name: 'the women of greatest of all time',
-        //       age: 45,
-        //   }
+          mother: {
+              name: 'the  greatest women of all time',
+              age: 45,
+          }
 
       },
       position: 'Software Engineer',
